@@ -1,0 +1,27 @@
+{
+  "name": "facts_google",
+  "version": "1.0.0",
+  "description": "Facts about google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeep0306/facts_google.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+},
+  "keywords": [
+    "facts"
+  ],
+  "author": "pradeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeep0306/facts_google/issues"
+  },
+  "homepage": "https://github.com/pradeep0306/facts_google#readme"
+}
